@@ -1,3 +1,7 @@
+node_modules/
+coverage/
+dist/
+*.log
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
